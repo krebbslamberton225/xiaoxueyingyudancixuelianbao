@@ -1,0 +1,6 @@
+{
+  "name": "小学英语单词学习",
+  "description": "一个专为小学生设计的英语单词学习应用。按一至六年级分级，支持标准语音朗读、趣味跟读打分、多维练习闯关（听音辨词、看图辨意、拼写填空）和错词分类本，配合欢快活泼的视觉设计，帮助孩子轻松快乐地学英语词汇。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
